@@ -8,7 +8,7 @@ Download file "LaztLoader.js" and include in the `head` tag of your page.
 ```
 Orvia **CDN** and include in the `head` tag of your page.
 ```html
-<script type="text/javascript" src="[https://cdn.jsdelivr.net/npm/lozad/dist/lozad.min.js](https://cdn.jsdelivr.net/gh/dominhhieu1405/LazyLoader@main/LazyLoader.js)](https://cdn.jsdelivr.net/gh/dominhhieu1405/LazyLoader@main/LazyLoader.js)"></script>
+<script type="text/javascript" src="[https://cdn.jsdelivr.net/gh/dominhhieu1405/LazyLoader@main/LazyLoader.js](https://cdn.jsdelivr.net/gh/dominhhieu1405/LazyLoader@main/LazyLoader.js)"></script>
 ```
 In HTML, add an identifier to the element (default selector identified is `lozad` class):
 ```html
