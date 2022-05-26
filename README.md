@@ -1,6 +1,7 @@
 # LazyLoader
 Simple Lazy Loader in html
-[Demo](https://git.k6vn.org/)
+
+[Demo](https://git.k6vn.org/example.html)
 
 Download file "LaztLoader.js" and include in the `head` tag of your page.
 ```html
