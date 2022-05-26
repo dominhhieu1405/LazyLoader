@@ -1,5 +1,5 @@
 # LazyLoader
-Simple Lazy Loader in html
+> Simple Lazy Loader in html
 
 [Demo](https://git.k6vn.org/example.html)
 
