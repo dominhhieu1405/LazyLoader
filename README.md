@@ -7,7 +7,7 @@ Download file "LaztLoader.js" and include in the `head` tag of your page.
 ```html
 <script type="text/javascript" src="/path-to-file/LazyLoader.js"></script>
 ```
-Orvia **CDN** and include in the `head` tag of your page.
+Or via **CDN** and include in the `head` tag of your page.
 ```html
 <script type="text/javascript" src="https://cdn.jsdelivr.net/gh/dominhhieu1405/LazyLoader@main/LazyLoader.js"></script>
 ```
